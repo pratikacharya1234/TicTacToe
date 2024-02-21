@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "TicTacToe",
+    "slug": "AwesomeProject",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.pratikdev.TicTacToe"
+    },
+    "web": {
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1784f290-ffaa-453c-8190-90521ba6dc1c"
+      }
+    }
+  }
+}
